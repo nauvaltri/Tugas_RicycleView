@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tugas Recycler View</string>
+    <string name="bio_anggur">
+        Anggur adalah buah yang berasal dari tanaman anggur (Vitis vinifera). Buah ini memiliki bentuk bulat atau oval, dengan berbagai warna seperti ungu, merah, hijau, atau kekuningan, tergantung pada jenisnya.
+        Anggur memiliki rasa manis dan segar dengan sedikit rasa asam yang lembut. Kulitnya tipis dan mudah dimakan, meskipun ada biji yang sering dimakan bersama buahnya. Anggur digunakan dalam berbagai produk
+        makanan dan minuman, termasuk anggur segar, anggur kering, jus anggur, dan selai anggur.
+    </string>
+    <string name="bio_melon">
+        Melon adalah buah yang menggoda dengan ciri khas warna kulitnya yang halus, seringkali berwarna kuning, hijau, atau oranye, tergantung pada jenisnya. Buah ini memiliki bentuk bulat atau oval dengan permukaan
+        yang licin dan biasanya memiliki warna kulit yang kontras dengan daging buahnya.
+    </string>
+    <string name="bio_apel">
+        Apel adalah buah yang dikenal secara luas dan populer di seluruh dunia. Dalam penampilannya, apel biasanya berbentuk bulat atau sedikit oval,
+        dengan berbagai warna yang mencakup merah, hijau, kuning, atau campuran warna-warni, tergantung pada jenis dan varietasnya.
+        Apel memiliki rasa yang umumnya manis dan segar, meskipun ada variasi rasa yang lebih asam dalam beberapa varietas.
+    </string>
+    <string name="bio_semangka">
+        Semangka adalah buah musim panas yang segar dan menggoda, dikenal dengan warna merah muda atau merah, meskipun ada juga varietas dengan kulit hijau. Bentuknya biasanya bulat
+        atau lonjong, dengan ukuran bervariasi dari yang kecil hingga sangat besar. Saat Anda memotongnya, daging buahnya
+        berwarna merah atau merah muda dengan biji hitam yang lembut yang bisa dimakan atau dihilangkan sesuai selera.
+    </string>
+    <string name="bio_pisang">
+        Pisang adalah buah yang dikenal dengan bentuknya yang khas, berkulit kuning dengan bentuk silindris yang melengkung. Buah ini sering kali memiliki tekstur yang lembut dan
+        manis saat matang, dengan daging yang berwarna putih atau kuning, tergantung pada jenisnya.
+        Pisang adalah buah yang sangat mudah dikupas dan dimakan tanpa perlu alat bantu.
+    </string>
+</resources>
